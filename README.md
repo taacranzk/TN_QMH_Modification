@@ -1,6 +1,10 @@
 # TN_QMH_Modification
 LabVIEWのQueued Message Handlerをベースに手を加えたものです。
 
+ブログ
+https://stacksequencenotpass.net/queued-message-handler/
+
+
 - LabVIEW 2026 Q3で作成
 - 2020で読み取れるようには保存
 
