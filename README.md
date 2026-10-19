@@ -1,6 +1,9 @@
 # TN_QMH_Modification
 LabVIEWのQueued Message Handlerをベースに手を加えたものです。
 
+- LabVIEW 2026 Q3で作成
+- 2020で読み取れるようには保存
+
 手を加えたところ
 #### Launcher.vi
 このVIをスタートVIにする。
@@ -22,4 +25,4 @@ All Message Queues.ctlのメッセージキューの数を変更したあとに�
 
 #### VI Script - Copy Templete MHL.vi
 All Message Queues.ctlのメッセージキューの数を変更したあとにこのVIを実行すると、MHL TempleteにあるMHL.lvlibをLoopフォルダにコピーして名前をメッセージキュー.lvlibにする。
-削除は手動。
+削除は手動。エラー配線などをちゃんとしていないですし、バグがあるかもしれません。
