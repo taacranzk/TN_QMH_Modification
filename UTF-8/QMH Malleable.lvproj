@@ -24,9 +24,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Project Documentation" Type="Folder">
-			<Property Name="NI.SortType" Type="Int">3</Property>
-		</Item>
 		<Item Name="Script" Type="Folder">
 			<Item Name="VI Script - Set Message Queue.vi" Type="VI" URL="../Script/VI Script - Set Message Queue.vi"/>
 			<Item Name="VI Script - Copy Templete MHL.vi" Type="VI" URL="../Script/VI Script - Copy Templete MHL.vi"/>
